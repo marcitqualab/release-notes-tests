@@ -14,8 +14,8 @@ changelog:
     - title: Pach and docs
       labels:
         - Semver-Patch
-        - path
-        - docs
+        - bug
+        - documentation
     - title: Other Changes
       labels:
         - "*"
