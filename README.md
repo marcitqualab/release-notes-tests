@@ -5,3 +5,5 @@ This test is just a playground to experiment with release notes automatic genera
 
 Test push to main branch.
 PR with label docs.
+Do a second commit to the branch.
+
