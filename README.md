@@ -4,3 +4,4 @@ Testing configurations and github actions to create automatic release testing no
 This test is just a playground to experiment with release notes automatic generation.
 
 Test push to main branch.
+PR with label docs.
