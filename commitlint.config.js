@@ -8,5 +8,6 @@ module.exports = {
         'header-max-length': [2, 'always', 150]
     },
 
-    extends: ['@commitlint/config-conventional']
+    //extends: ['@commitlint/config-conventional']
+    extends: ['./node_modules/cz-conventional-changelog-with-jiraid-detection']
 };
