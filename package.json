@@ -14,7 +14,9 @@
   },
   "config": {
     "commitizen": {
-      "path": "./node_modules/cz-conventional-changelog-with-jiraid-detection"
+      "path": "./node_modules/cz-conventional-changelog-with-jiraid-detection",
+      "maxHeaderWidth": 190,
+      "maxLineWidth": 180
     }
   },
   "husky": {
