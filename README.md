@@ -12,3 +12,6 @@ PF 2 labeled as feature.
 Change test 1
 
 Change test 2
+
+
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
