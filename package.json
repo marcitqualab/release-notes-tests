@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "commit": "cz"
+    "cm": "cz"
   },
   "devDependencies": {
     "@commitlint/cli": "^16.2.3",
